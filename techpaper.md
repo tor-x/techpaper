@@ -478,8 +478,9 @@ spatial modeling of electoral choice of TOR-X users will provide ability to
 determine potentially fraudulent actions of network participants to prevent them
 and make TOR-X network safe for all market players.
 
-Let`s assume nodes as τ_1,τ_2 and τ_1<τ_2. In
-accordance with the theory of spatial modeling of electoral choice, TOR-X
+	Let`s assume nodes as τ_1,τ_2 and τ_1<τ_2. 
+
+In accordance with the theory of spatial modeling of electoral choice, TOR-X
 network participant node preference with his perfect point β will have following
 election preference:
 
@@ -500,12 +501,12 @@ than voting subject will vote:
 As there are different set of factors that has influence on node voting process,
 there is only way to use stochastic model:
 
-p(β_i,K_i,(t))=exp[-α(β_i-(K_i (t))/(K_i (t-1)) * (τ_1+ τ_2)/2)]/(1+exp[-α(β_i-(K_i (t))/(K_i (t-1)) * (τ_1+ τ_2)/2)] )
+	p(β_i,K_i,(t))=exp[-α(β_i-(K_i (t))/(K_i (t-1)) * (τ_1+ τ_2)/2)]/(1+exp[-α(β_i-(K_i (t))/(K_i (t-1)) * (τ_1+ τ_2)/2)] )
 
 In this equation $$\alpha$$ –parameter describes how quickly changes probability
 as you move to the left and to the right of the point of voting
 
-β=(K_i (t))/(K_i (t-1))  (τ_1+ τ_2)/2,where p(β_i,K_i,(t))=0
+	β=(K_i (t))/(K_i (t-1))  (τ_1+ τ_2)/2,where p(β_i,K_i,(t))=0
 
 So the less value of $$\alpha$$ –parameter, the greater role of stochastic, that
 means higher role of factors that were not taken into account during model
