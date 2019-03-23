@@ -186,6 +186,9 @@ It could never happen with approach that is offered by TOR-X team.
 | Coincheck    | Jan.18           | \$ 500 000 000 |
 | BitGrail     | Feb.18           | \$ 187 000 000 |
 | Coinrail     | Jun.18           | \$ 40 000 000  |
+| Banchor      | Jul.18           | \$ 23 500 000  |
+| Zaif         | Sep.18           | \$ 60 000 000  |
+| Cryptopia    | Jan.19           | \$ 16 180 000  |
 
 ## TOR-X blockchain
 
@@ -347,7 +350,7 @@ TOR-X team going to distribute tokens in the following way and shares:
 | Private sale bonus                        | 5,44%                        | 5 440 000      | 45% bonus for TOR-X Masternode buyers                                                                                                                                                                                                                                                                 |
 | Pre-sale Bonus                            | 1,50%                        | 2 980 000      | 35% bonus for TOR-X node buyers                                                                                                                                                                                                                                                                       |
 | Sale Bonus                                | 2,00%                        | 2 000 000      |                                                                                                                                                                                                                                                                                                       |
-| Marketing                                 | 6,58%                       | 6 580 000     | This part of TOR-X tokens supply will be used for the promotion and building TOR-X community.                                                                                                                                                                                                         |
+| Marketing                                 | 6,58%                        | 6 580 000      | This part of TOR-X tokens supply will be used for the promotion and building TOR-X community.                                                                                                                                                                                                         |
 | Referral program                          | 5,00%                        | 5 000 000      | This is maximum share of tokens to be paid as referral bounty to TOR-X project contributors.(unused tokens will be added to Advisors and Strategical Partners reserve)                                                                                                                                |
 | Bounty program                            | 5,00%                        | 5 000 000      | Bounty program is aimed to spread the word about TOR-X project, grow TOR-X community and assist with project localization. (unused tokens will be added to Advisors and Strategical Partners reserve)                                                                                                 |
 | Airdrop                                   | 5,00%                        | 5 000 000      | Maximum share of tokens to be transferred to TOR-X Airdrop program members. The main aim of airdrop is to grow TOR-X community and achieve wider out rich. (unused tokens will be added to Advisors and Strategical Partners reserve)                                                                 |
@@ -540,7 +543,11 @@ economics mass adoption.
 
 ### Decentralized Applications
 
-### TOR-X Network developers team will provide support, development environment and tools to community of DApp developers. This will help to grow community of TOR-X Ecosystem and will make development process easy and convenient. The main accelerating factor of TOR-X mass adoption will be commission sharing scheme between DApp developers, node owners and TOR-X team.
+TOR-X Network developers team will provide support, development environment 
+and tools to community of DApp developers. This will help to grow community 
+of TOR-X Ecosystem and will make development process easy and convenient. 
+The main accelerating factor of TOR-X mass adoption will be commission sharing 
+scheme between DApp developers, node owners and TOR-X team.
 
 ### Two-way cross-chain exchange 
 
