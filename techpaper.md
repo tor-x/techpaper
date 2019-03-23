@@ -323,7 +323,7 @@ We in TOR-X team have consistent vision of further project development:
 | Phase 1      | Q3.2018      | TOR-X team gathering and planning, incorporation                   |
 | Phase 2      | Q3.2018      | Planning of TOR-X ecosystem, tokenomics and top-level architecture |
 | Phase 3      | Q1.2019      | TOR-X Private sale                                                 |
-| Phase 3      | Q1.2019      | ICO start                                                          |
+| Phase 3      | Q2.2019      | ICO start                                                          |
 | Phase 4      | Q2.2019      | TOR-X Test network launch                                          |
 | Phase 5      | Q3.2019      | TOR-X Mainnet launch, TOR-X DEX launch, crypro2fiat                |
 | Phase 6      | Q4.2019      | OTR-X POS Launch                                                   |
