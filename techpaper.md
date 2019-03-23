@@ -813,3 +813,6 @@ PARTICULAR PURPOSE.
 41. Vitalik Buterin, DAOs, DACs, DAs and More: An Incomplete Terminology Guide,
     2014,
     https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/
+
+42. Bitwise Asset Management, Presentation to the U.S. Securities and Exchange Commission, March 19, 2019, 
+    https://www.sec.gov/comments/sr-nysearca-2019-01/srnysearca201901-5164833-183434.pdf
