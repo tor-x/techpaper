@@ -189,6 +189,7 @@ It could never happen with approach that is offered by TOR-X team.
 | Banchor      | Jul.18           | \$ 23 500 000  |
 | Zaif         | Sep.18           | \$ 60 000 000  |
 | Cryptopia    | Jan.19           | \$ 16 180 000  |
+| Coinbene     | Mar.19		  | \$ 105 000 000 |
 
 ## TOR-X blockchain
 
